@@ -1,0 +1,12 @@
+{
+  "name": "welcome-g-bot",
+  "version": "1.0.0",
+  "description": "Welcome_G Mineflayer bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "latest"
+  }
+}
